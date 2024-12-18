@@ -1,20 +1,2 @@
 # Algorithms
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
-
-<hr>
-
-## 2023.10
-
- ##### Week 1 : <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/lv0/120814.%E2%80%85피자%E2%80%85나눠%E2%80%85먹기%E2%80%85（1）">피자 나눠 먹기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/lv0/120898.%E2%80%85편지">편지</a> /<a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/lv0/120814.%E2%80%85피자%E2%80%85나눠%E2%80%85먹기%E2%80%85（1）">배열 뒤집기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/lv1/12919.%E2%80%85서울에서%E2%80%85김서방%E2%80%85찾기">서울에서 김서방 찾기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/lv1/12912.%E2%80%85두%E2%80%85정수%E2%80%85사이의%E2%80%85합">두 정수 사이의 합</a>
-
-##### Week 2 : <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120820.%E2%80%85나이%E2%80%85출력">나이 출력</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120810.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0">나머지 구하기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120807.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0">숫자 비교하기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120805.%E2%80%85%EB%AA%AB%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0">몫 구하기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/120804.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EA%B3%B1">두 수의 곱</a>
-
-##### Week 3 : <a href="https://github.com/yeheeshin/Algorithms/commit/cab5bdc85f55f9bc4bd0263dc53283158419fc2f">나누어 떨어지는 숫자 배열</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/1/12935.%E2%80%85제일%E2%80%85작은%E2%80%85수%E2%80%85제거하기">제일 작은 수 제거하기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120583.%E2%80%85중복된%E2%80%85숫자%E2%80%85개수">중복된 숫자 개수</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120809.%E2%80%85배열%E2%80%85두배%E2%80%85만들기">배열 두배 만들기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120831.%E2%80%85짝수의%E2%80%85합">짝수의 합</a>
-
-## 2023.11
-
-##### Week 1 : <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120806.%E2%80%85두%E2%80%85수의%E2%80%85나눗셈">두 수의 나눗셈</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120829.%E2%80%85각도기">각도기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120817.%E2%80%85배열의%E2%80%85평균값">배열의 평균값</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120830.%E2%80%85양꼬치">양꼬치</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120824.%E2%80%85짝수%E2%80%85홀수%E2%80%85개수">짝수 홀수 개수</a>
-
-##### Week 2 : <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120585.%E2%80%85머쓱이보다%E2%80%85키%E2%80%85큰%E2%80%85사람">머쓱이보다 키 큰 사람</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120819.%E2%80%85아이스%E2%80%85아메리카노">아이스 아메리카노</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120841.%E2%80%85점의%E2%80%85위치%E2%80%85구하기">점의 위치 구하기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120847.%E2%80%85최댓값%E2%80%85만들기%E2%80%85（1）">최댓값 만들기</a> / <a href="https://github.com/yeheeshin/Algorithms/tree/main/프로그래머스/unrated/120854.%E2%80%85배열%E2%80%85원소의%E2%80%85길이">배열 원소의 길이</a>
-
-##### Week 3 : <a href="https://github.com/yeheeshin/Algorithms/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12916.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%E2%80%85p%EC%99%80%E2%80%85y%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98">문자열 내 p와 y의 개수</a> /
